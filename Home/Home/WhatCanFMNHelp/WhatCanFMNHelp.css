@@ -1,0 +1,43 @@
+.WhatCanFMNHelp{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.whatcanFMNhelp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 90%;
+    margin-top: 2rem;
+}
+.whatcanFMNhelp .FMNhelp-text{
+    font-weight: 500;
+    font-size: 50px;
+    line-height: 75px;
+    color: #000000;
+}
+.FMNhelp-cards{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.fmncardhelp{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.fmncardhelp .fmncardhead{
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 60px;
+    color: #000000;
+    
+}
+.fmncardhelp p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 0rem;
+}

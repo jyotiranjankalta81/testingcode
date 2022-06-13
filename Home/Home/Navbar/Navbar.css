@@ -1,0 +1,38 @@
+.Navbar{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.Next_Page{
+    text-decoration:none;
+    color: #FFFFFF;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2.5rem;
+}
+.navbar a{
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.navbar img{
+    cursor: pointer;
+}
+.navbar button{
+    width: 136px;
+    height: 43px;
+    background: #161412;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
