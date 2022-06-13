@@ -1,0 +1,40 @@
+.usefilter2_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 2rem;
+}
+.usefilter2_form{
+    width: 100%;
+}
+.usefilter2_form form{
+    width: 100%;
+    gap: 1rem;
+}
+.collg_uni_LI{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: .8rem;
+}
+.collg_uni_LI select{
+    padding: .5rem;
+    border: 2px solid #F7701D;
+    border-radius: 10px;
+}
+.form-row{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: 1.5rem;
+}
+.form-row input{
+    padding: .5rem;
+    border: 2px solid #F7701D;
+    border-radius: 10px;
+
+}
+

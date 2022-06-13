@@ -1,0 +1,40 @@
+.usefilter1_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    margin-top: 2rem;
+}
+.usefilter1_form{
+    width: 100%;
+}
+.usefilter1_form form{
+    width: 100%;
+    gap: 1rem;
+}
+.linkedin_LI{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: .8rem;
+}
+.linkedin_LI select{
+    padding: .5rem;
+    border: 2px solid #F7701D;
+    border-radius: 10px;
+}
+.form-row{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    gap: .8rem;
+}
+.form-row input{
+    padding: .5rem;
+    border: 2px solid #F7701D;
+    border-radius: 10px;
+
+}
+
