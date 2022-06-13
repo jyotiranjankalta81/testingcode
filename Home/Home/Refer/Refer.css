@@ -1,0 +1,41 @@
+.Refer{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+}
+.refer{
+    width: 1202px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 50px rgba(247, 112, 29, 0.39);
+    border-radius: 20px;
+    
+}
+.Refer-text{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.Refer-text p{
+    width: 797px;
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 52px;
+}
+
+.Refer-BTN .btn{
+    width: 237px;
+    height: 53px;
+    background: #F7701D;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 45px;
+    color: #FFFAFA;
+    border: none;
+    cursor: pointer;
+}
