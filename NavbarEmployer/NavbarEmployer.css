@@ -1,0 +1,38 @@
+.Navbar-ContainerEmployer{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgba(255, 255, 255, 0) ;
+    z-index: 999;
+    margin: auto;
+    
+}
+.Nav_logoEm{
+    width: 18%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 5rem;
+
+}
+.Nav_logoEm img{
+    width: 80%;
+    padding: .5rem;
+}
+.Nav-linksEm{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 10rem;
+    gap: 2rem;
+}
+ .Nav-linksEm a{
+        text-align: center;
+        text-decoration: none;
+        font-weight: 600;
+        color: black;
+        font-family: 'Poppins', sans-serif;
+}
